@@ -6,4 +6,6 @@ result=[item for item in list_text if item not in vowels]
 #text1=set(text)
 result_str=(''.join(result))
 #print(result_str)
+# print(len(result_str))
 print(len(result_str))
+print("!")

@@ -7,3 +7,4 @@ result=[item for item in list_text if item not in vowels]
 result_str=(''.join(result))
 #print(result_str)
 print(len(result_str))
+##
